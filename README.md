@@ -18,7 +18,7 @@ Femaissance
  
 [_Project link_](https://femaissance.netlify.app/)
  
-[_Video link_](https://youtu.be/uWDBd34jH-s)
+[_Video link_](https://youtu.be/sxdT0Nv5NYI)
  
  
 ## About Femaissance
